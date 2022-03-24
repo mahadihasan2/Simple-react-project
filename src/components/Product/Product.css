@@ -1,0 +1,44 @@
+.product{
+    width: 300px;
+    height: 510px;
+    margin-top: 50px;
+    margin-left: 40px;
+    border: 1px solid #95A0A7;
+    border-radius: 8px;
+    position: relative;
+    
+}
+.product-info{
+    margin: 0px  14px;
+
+}
+.product-info p{
+    margin-bottom: 0px;
+    margin-top: 6px;
+}
+.product-name{
+    font-family: "Lato";
+    font-size: 21px;
+    font-style: normal;
+    line-height: 25px;
+    font-weight: 400;
+    margin-top: 7px;
+
+}
+.product img{
+    width: 286px;
+    height: 286px;
+    border-radius: 8px;
+    margin: 7px;
+}
+.btn-card{
+    width: 100%;
+    background-color: #ffe08f;
+    border: none;
+    border-radius: 0 0 8px 8px;
+    position: absolute;
+    bottom: 0;
+}
+.btn-card:hover{
+    background-color: orange;
+}
